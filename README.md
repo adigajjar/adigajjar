@@ -1,9 +1,8 @@
 ### Hello👋, This Is Aditya Gajjar
 #### Data Science and Machine Learning
-Hi, I'm Aditya Gajjar, a second-year B.Tech student in Computer Science and Engineering (CSE). I have developed a deep curiosity and fascination for the dynamic fields of Machine Learning and Data Science. I love to explore the complexities and nuances of these domains, such as **Natural Language Processing, Neural Networks, Computer Vision, Data Analytics, and more**. I'm always hungry for learning new things and expanding my tech skills. You can check out my GitHub profile to see my coding journey, where I collaborate, learn, and share my projects and contributions with the world. Feel free to browse through my repositories, and let me know if you want to work together or chat about my areas of interest.
+Hi, I'm Aditya Gajjar, a third-year B.Tech student in Computer Science and Engineering (CSE). I have developed a deep curiosity and fascination for the dynamic fields of Machine Learning and Data Science. I love to explore the complexities and nuances of these domains, such as **Natural Language Processing, Neural Networks, Computer Vision, Data Analytics, and more**. I'm always hungry for learning new things and expanding my tech skills. You can check out my GitHub profile to see my coding journey, where I collaborate, learn, and share my projects and contributions with the world. Feel free to browse through my repositories, and let me know if you want to work together or chat about my areas of interest.
 
 - 🌱 I’m currently learning **React, Nodejs, PyTorch, TensorFlow**
-- 🔭 I’m currently participating in **SIH Hackathon and ERYC Hackathon**
 - 📝 I often write articles on [https://medium.com/@adityanbg25](https://medium.com/@adityanbg25)
 
 <h3 align="left">Languages and Tools:</h3>
